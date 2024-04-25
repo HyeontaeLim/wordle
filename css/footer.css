@@ -1,0 +1,50 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.letter-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.letter {
+  width: 40px;
+  height: 60px;
+  background-color: #d3d6da;
+  border-radius: 3px;
+  margin: 2px;
+  font-size: 25px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.enter {
+  width: 70px;
+  height: 60px;
+  background-color: #d3d6da;
+  border-radius: 3px;
+  margin: 2px;
+  font-size: 15px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.delete {
+  width: 70px;
+  height: 60px;
+  background-color: #d3d6da;
+  border-radius: 3px;
+  margin: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.delete img {
+  width: 30px;
+}

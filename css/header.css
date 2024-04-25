@@ -1,0 +1,18 @@
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  border-bottom: 1px solid #ededef;
+  padding-bottom: 5px;
+}
+.menu img {
+  width: 30px;
+}
+.title {
+  font-size: 25px;
+  font-weight: bold;
+}
+.etc img {
+  width: 30px;
+}
